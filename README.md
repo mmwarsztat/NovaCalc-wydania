@@ -4,6 +4,20 @@ Gotowe instalatory programu **NovaCalc** (kalkulator wyrażeń z profilami stalo
 Metal-Montaż). Kod źródłowy leży w osobnym, prywatnym repozytorium — tutaj są tylko
 pliki do pobrania.
 
+## Licencja
+
+Program jest własnością **METAL-MONTAŻ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ** i służy
+do pracy na jej rzecz. Prawo korzystania mają pracownicy i współpracownicy Spółki; wygasa
+ono z końcem zatrudnienia lub współpracy. Przekazywanie programu osobom spoza Spółki
+wymaga pisemnej zgody. NovaCalc **nie jest** wolnym oprogramowaniem.
+
+Osobny punkt mówi, że program **nie odpowiada za wyniki obliczeń** — każdy wynik wymaga
+sprawdzenia przez osobę o odpowiednich kwalifikacjach, zanim trafi do projektu, oferty
+czy na budowę.
+
+Pełna treść: [`LICENSE`](LICENSE). Tę samą pokazuje instalator jako stronę do
+zatwierdzenia przy pierwszej instalacji.
+
 ## Instalacja
 
 Weź najnowszy `NovaCalc-<wersja>-instalator.exe` z zakładki
