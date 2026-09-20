@@ -1,0 +1,88 @@
+NOVACALC — LICENCJA NA UŻYTEK WEWNĘTRZNY
+
+Copyright © 2026 METAL-MONTAŻ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ.
+Wszelkie prawa zastrzeżone.
+
+Właścicielem programu jest:
+
+  METAL-MONTAŻ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ
+  ul. Pogodna 13, 05-510 Chylice
+  KRS 0001090798, NIP 1231554176, REGON 528240965
+
+— dalej w tej licencji nazywana Spółką.
+
+
+1. WŁAŚCICIEL
+
+Autorskie prawa majątkowe do programu NovaCalc — kodu, interfejsu, zebranych
+danych i dokumentacji — przysługują Spółce. NovaCalc nie jest wolnym
+oprogramowaniem i nie jest udostępniany na żadnej licencji otwartej.
+
+
+2. KTO MOŻE UŻYWAĆ
+
+Prawo do korzystania z programu mają pracownicy i współpracownicy Spółki,
+wyłącznie do pracy wykonywanej na jej rzecz.
+
+Prawo to wygasa z dniem zakończenia zatrudnienia lub współpracy. Od tego dnia
+program należy usunąć z każdego komputera i nośnika, na którym został
+zainstalowany lub zapisany.
+
+Instalacja na komputerze służbowym oraz kopia na nośniku przenośnym do pracy
+poza biurem mieszczą się w tym prawie.
+
+
+3. CZEGO NIE WOLNO
+
+Bez pisemnej zgody Spółki nie wolno:
+
+  — przekazywać programu, instalatora ani jego plików osobom spoza Spółki,
+  — używać programu do pracy na rzecz innego podmiotu,
+  — udostępniać go dalej, odpłatnie ani nieodpłatnie,
+  — zmieniać programu ani włączać jego części do innych opracowań,
+  — usuwać ani zmieniać oznaczeń autorstwa i treści tej licencji.
+
+
+4. ODPOWIEDZIALNOŚĆ ZA OBLICZENIA
+
+PROGRAM NIE ODPOWIADA ZA WYNIKI OBLICZEŃ.
+
+NovaCalc jest narzędziem pomocniczym. Każdy podany przez niego wynik — nośność,
+naprężenie, ugięcie, dobór przekroju, dobór łącznika, zestawienie materiału
+i każdy inny — wymaga sprawdzenia przez osobę o odpowiednich kwalifikacjach,
+zanim zostanie użyty w projekcie, dokumentacji, ofercie lub na budowie.
+
+Odpowiedzialność za przyjęte założenia, za sprawdzenie wyniku i za decyzję
+techniczną ponosi ten, kto się wynikiem posłużył — nie program, nie jego autor
+i nie Spółka.
+
+Wbudowane odczyty z norm, aprobat technicznych i katalogów producentów mogą być
+niepełne lub nieaktualne. Rozstrzyga treść dokumentu źródłowego w obowiązującym
+brzmieniu, a nie jej odwzorowanie w programie.
+
+
+5. BRAK GWARANCJI
+
+Program jest udostępniany w stanie, w jakim jest, bez rękojmi i bez gwarancji
+jakiegokolwiek rodzaju — w szczególności bez gwarancji poprawności wyników,
+kompletności danych, zgodności z normami w obowiązującym brzmieniu,
+przydatności do określonego celu i nieprzerwanego działania.
+
+W granicach dopuszczonych prawem wyłączona jest odpowiedzialność autora
+i Spółki za jakąkolwiek szkodę wynikłą z użycia programu albo z niemożności
+jego użycia — w tym za szkody majątkowe, przestoje, utratę danych oraz skutki
+decyzji podjętych na podstawie wyników programu.
+
+
+6. AKTUALIZACJE
+
+Program przy uruchomieniu sprawdza, czy ukazało się nowsze wydanie, i pobiera
+je za zgodą użytkownika. Ta licencja obejmuje każde wydanie programu, również
+pobrane w ten sposób.
+
+
+7. SKŁADNIKI OBCE
+
+Program korzysta z bibliotek innych autorów, rozpowszechnianych na własnych
+licencjach (m.in. Tauri — MIT / Apache-2.0). Ta licencja ich nie zmienia
+i dotyczy wyłącznie samego NovaCalca.
